@@ -1,0 +1,12 @@
+{
+  "name": "primeiro-projeto-nodejs",
+  "version": "1.0.0",
+  "description": "Meu primeiro projeto em Node",
+  "main": "index.js",
+  "author": "Cícero Martins",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "chalk": "^5.3.0"
+  }
+}
